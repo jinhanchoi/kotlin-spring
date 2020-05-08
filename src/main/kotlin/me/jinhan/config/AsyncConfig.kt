@@ -1,4 +1,4 @@
-package me.jinhan.main.config
+package me.jinhan.config
 
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration

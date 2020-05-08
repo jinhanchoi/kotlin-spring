@@ -1,4 +1,4 @@
-package me.jinhan.main
+package me.jinhan
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

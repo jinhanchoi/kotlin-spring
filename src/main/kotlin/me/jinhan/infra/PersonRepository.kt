@@ -1,6 +1,6 @@
-package me.jinhan.main.infra
+package me.jinhan.infra
 
-import me.jinhan.main.entity.Person
+import me.jinhan.entity.Person
 import org.springframework.data.repository.CrudRepository
 import org.springframework.stereotype.Repository
 

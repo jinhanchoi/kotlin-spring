@@ -1,7 +1,7 @@
-package me.jinhan.main.service
+package me.jinhan.service
 
-import me.jinhan.main.entity.Person
-import me.jinhan.main.infra.PersonRepository
+import me.jinhan.entity.Person
+import me.jinhan.infra.PersonRepository
 import org.slf4j.Logger
 import org.slf4j.LoggerFactory
 import org.springframework.scheduling.annotation.Async
